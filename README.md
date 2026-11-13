@@ -65,7 +65,7 @@
 - `disk-usage.sh`：查看磁盘使用情况；
 - `nginx-site.conf`：Nginx 示例站点配置；
 - `ufw-basic.sh`：UFW 基础规则示例（执行前必须修改并确认 SSH 端口）；
-- `backup-example.sh`：使用 rsync 的目录备份示例（需要自行配置目标路径）。
+- `backup-example.sh`：使用 rsync 的目录备份示例（需要自行配置目标路径）；\n- `linux-baseline-audit.sh`：只读生成 Linux VPS 基础状态报告，不修改系统配置。
 
 示例不会自动替你判断业务端口，也不会自动执行。请先阅读、修改并在测试环境验证。
 
