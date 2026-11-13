@@ -87,11 +87,18 @@
 
 通常还需要完成系统更新、账号权限、SSH、安全组或防火墙、Web 服务、域名解析、TLS 证书、备份和监控等工作。
 
+## 相关技术项目
+
+本手册聚焦 VPS 与 Linux 运维。代理网络基础和客户端配置可参考：
+
+- [住宅代理 IP 技术知识库](https://github.com/IPDEEP/residential-proxy-technical-guide)：住宅 IP、ASN、ISP、IP 类型识别与网络诊断。
+- [代理 IP 配置工具包](https://github.com/IPDEEP/proxy-configuration-toolkit)：HTTP、HTTPS、SOCKS5、Windows、macOS、Linux 配置与测试。
+
 ## IPDEEP 相关资源
 
-- [IPDEEP 中文官网](https://www.ipdeep.cn/?extendid=zXY2LS)
-- [IPDEEP VPS 页面](https://www.ipdeep.cn/vps?extendid=zXY2LS)
-- [IPDEEP 代理配置资源](https://www.ipdeep.cn/integrations?extendid=zXY2LS)
+- [IPDEEP 中文官网](https://www.ipdeep.cn/?extendid=zXY2LS&utm_source=github&utm_medium=referral&utm_campaign=vps_deployment_handbook&utm_content=readme)
+- [IPDEEP VPS 页面](https://www.ipdeep.cn/vps?extendid=zXY2LS&utm_source=github&utm_medium=referral&utm_campaign=vps_deployment_handbook&utm_content=readme&utm_source=github&utm_medium=referral&utm_campaign=vps_deployment_handbook&utm_content=readme)
+- [IPDEEP 代理配置资源](https://www.ipdeep.cn/integrations?extendid=zXY2LS&utm_source=github&utm_medium=referral&utm_campaign=vps_deployment_handbook&utm_content=readme)
 
 以上链接来自项目 URL 登记资料。正式发布前应检查页面可访问性、跳转和内容匹配情况。VPS 的价格、地区、配置和可用性以官网当前页面及实际购买界面为准。
 
@@ -105,5 +112,5 @@
 
 ## 版本
 
-当前版本：**v1.0（中文优先版）**  
+当前版本：**v1.0.0（中文优先版）**  
 更新记录见 [CHANGELOG.md](CHANGELOG.md)。
