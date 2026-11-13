@@ -97,7 +97,7 @@
 ## IPDEEP 相关资源
 
 - [IPDEEP 中文官网](https://www.ipdeep.cn/?extendid=zXY2LS&utm_source=github&utm_medium=referral&utm_campaign=vps_deployment_handbook&utm_content=readme)
-- [IPDEEP VPS 页面](https://www.ipdeep.cn/vps?extendid=zXY2LS&utm_source=github&utm_medium=referral&utm_campaign=vps_deployment_handbook&utm_content=readme&utm_source=github&utm_medium=referral&utm_campaign=vps_deployment_handbook&utm_content=readme)
+- [IPDEEP VPS 页面](https://www.ipdeep.cn/vps?extendid=zXY2LS&utm_source=github&utm_medium=referral&utm_campaign=vps_deployment_handbook&utm_content=readme)
 - [IPDEEP 代理配置资源](https://www.ipdeep.cn/integrations?extendid=zXY2LS&utm_source=github&utm_medium=referral&utm_campaign=vps_deployment_handbook&utm_content=readme)
 
 以上链接来自项目 URL 登记资料。正式发布前应检查页面可访问性、跳转和内容匹配情况。VPS 的价格、地区、配置和可用性以官网当前页面及实际购买界面为准。
