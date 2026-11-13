@@ -72,6 +72,6 @@ CPU 影响程序执行和并发处理能力。选型时关注：
 
 ## 相关资源
 
-- [IPDEEP VPS 页面](https://www.ipdeep.cn/vps)
+- [IPDEEP VPS 页面](https://www.ipdeep.cn/vps?extendid=zXY2LS)
 
 价格和套餐以官网当前展示及购买页面为准。
