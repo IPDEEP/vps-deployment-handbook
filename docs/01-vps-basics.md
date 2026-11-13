@@ -43,4 +43,4 @@ VPS（Virtual Private Server，虚拟专用服务器）通常是通过虚拟化�
 
 ## 相关资源
 
-- [IPDEEP VPS 页面](https://www.ipdeep.cn/vps)
+- [IPDEEP VPS 页面](https://www.ipdeep.cn/vps?extendid=zXY2LS)
